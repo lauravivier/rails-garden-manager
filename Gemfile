@@ -9,6 +9,7 @@ gem 'rails'
 gem 'redis'
 gem 'faker'
 gem 'rest-client'
+gem 'simple_form'
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
